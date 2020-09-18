@@ -1,2 +1,2 @@
 # devProject
-This is Max Skeen's devPSU Project Repository
+This is the README file for my DevPSU project.
